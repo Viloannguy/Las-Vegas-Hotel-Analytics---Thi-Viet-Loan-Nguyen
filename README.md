@@ -7,7 +7,7 @@ To ensure clear organization, the repository is structured as follows:
 - Part1_Basic_Exploration.ipynb: Initial data loading, structural analysis, and data cleaning processes.
 - Part2_Business_Questions.ipynb: Detailed analysis of business questions and generation of data visualizations.
 - plots/: Directory containing all generated visualizations (e.g., Histogram of scores, Boxplots by traveler type and hotel stars).
-- report/: Folder for the final 3-page "Hotel Analytics Report".
+- report/: Folder for the final "Hotel Analytics Report".
 - Las VegasTripAdvisorReviews-Dataset.csv: The raw dataset used for analysis.
 #### 3. How to run the program:
 To reproduce the findings in this repository, follow these steps:
